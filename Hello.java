@@ -7,7 +7,7 @@ class Hello{
 
 	System.out.println("something done in working directory to be commited.");
 
-	System.out.printl("from another user");
+	System.out.printl("from another user  commit");
 
   }
 }
